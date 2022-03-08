@@ -2,3 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/deaddev/final.deaddev.com
+    - /bin/cp -r * $DEPLOYPATH
