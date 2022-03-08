@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/deaddev/final.deaddev.com/
+    - /bin/cp -R images $DEPLOYPATH
