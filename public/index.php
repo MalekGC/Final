@@ -9,6 +9,7 @@
 </head>
 
 <body>
+<p>This is a test edit</p>
 <h1>Service Worker Example</h1>
 <a href="page1.php">Page 1</a>
 <br/><br/>
